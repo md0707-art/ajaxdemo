@@ -16,9 +16,7 @@ A dynamic customer management system built with Laravel, AJAX, and jQuery for se
 4. Run migrations: `php artisan migrate`
 5. Start the server: `php artisan serve`
 6. Access the app at `http://localhost:8000`.
-
-## Demo
-[Video Demo](#) *(replace with your YouTube/Loom link if hosted externally)*
+ 
 
 ## Technologies
 - Laravel
